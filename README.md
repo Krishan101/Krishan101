@@ -40,8 +40,14 @@ guest@krishan-101:~$ cat about.txt
 <a href="https://github.com/Krishan101/mlops-forkwise">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishan101&repo=mlops-forkwise&theme=transparent&bg_color=00000000&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=true" />
 </a>
-<a href="https://github.com/Krishan101/kaggle-dl-pixels-to-predictions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishan101&repo=kaggle-dl-pixels-to-predictions&theme=transparent&bg_color=00000000&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=true" />
+<a href="https://github.com/Krishan101/doclens">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishan101&repo=doclens&theme=transparent&bg_color=00000000&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=true" />
+</a>
+<a href="https://github.com/Krishan101/nyu-av-command-center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishan101&repo=nyu-av-command-center&theme=transparent&bg_color=00000000&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=true" />
+</a>
+<a href="https://github.com/Krishan101/ReservaDirect">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krishan101&repo=ReservaDirect&theme=transparent&bg_color=00000000&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=true" />
 </a>
 
 <br/><br/>
