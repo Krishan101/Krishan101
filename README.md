@@ -54,10 +54,8 @@ guest@krishan-101:~$ cat about.txt
 
 ### 🌐 Connect
 
-<!-- 👇 swap each href for your real profile/handle before you push -->
-<a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
-<a href="https://twitter.com/REPLACE_ME"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=39FF14" /></a>
-<a href="mailto:REPLACE_ME@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
+<a href="https://www.linkedin.com/in/krishan-gupta-101/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
+<a href="mailto:k.gupta@nyu.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
 
 <br/><br/>
 
