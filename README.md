@@ -1,21 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B6&height=200&section=header&text=Krishan%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20%2F%20DL%20Engineer&descAlignY=58&descSize=18&descColor=E0FBFC" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0077B6&height=200&section=header&text=Krishan%20Gupta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer&descAlignY=58&descSize=18&descColor=E0FBFC" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00D9C0&background=0D1117&center=true&vCenter=true&width=650&lines=Training+models...+debugging+gradients...;Exploring+vision-language+models+%26+MLOps;Currently%3A+%F0%9F%8E%AF+Focusing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00D9C0&background=0D1117&center=true&vCenter=true&width=650&lines=Building+with+deep+learning+%26+vision-language+models;Turning+research+papers+into+working+pipelines;Currently%3A+%F0%9F%8E%AF+Focusing" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-```bash
-guest@krishan-101:~$ whoami
-> Krishan Gupta
-guest@krishan-101:~$ cat status.txt
-> 🎯 Focusing | 🛰️ Arctic Code Vault Contributor | 🇮🇳 India
-guest@krishan-101:~$ cat about.txt
-> Building ML/DL systems — from notebooks to production pipelines.
-> Currently exploring: vision-language models, MLOps, smart recommendation systems.
+```python
+>>> import krishan as kg
+
+>>> kg.role
+'AI / ML Engineer'
+
+>>> kg.focus_areas
+['Vision-Language Models', 'Deep Learning', 'MLOps', 'RAG Systems']
+
+>>> kg.currently
+'🎯 Focusing | 🛰️ Arctic Code Vault Contributor'
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,100:0077B6&height=3" />
